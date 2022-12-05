@@ -1,0 +1,26 @@
+.step {
+   display: grid;
+   text-align: left;
+   align-items: center;
+   width: 100%;
+   max-width: 500px;
+   margin: 4rem
+}
+
+.step h2 {
+   margin: 0;
+}
+
+.step p {
+   margin: 0;
+   margin-bottom: 2rem;
+}
+
+.step input {
+   margin: 0;
+   margin-bottom: 1rem;
+}
+
+.step__button {
+   margin-left: auto;
+}
